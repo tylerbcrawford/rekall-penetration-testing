@@ -66,7 +66,7 @@ The full penetration test report with the complete findings set, exploitation ch
 
 ## Related
 
-For the defensive counterpart to this engagement — a Splunk SIEM built to detect this class of attack — see **[vsi-splunk-siem](https://github.com/tylerbcrawford/vsi-splunk-siem)**.
+For the defensive counterpart to this engagement, a Splunk SIEM built to detect this class of attack, see **[vsi-splunk-siem](https://github.com/tylerbcrawford/vsi-splunk-siem)**.
 
 ## Context
 
